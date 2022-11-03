@@ -1,0 +1,165 @@
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/appsettings.json
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.staticwebassets.runtime.json
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.exe
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.deps.json
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.runtimeconfig.json
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.dll
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.pdb
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.csproj.AssemblyReference.cache
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.AssemblyInfoInputs.cache
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.AssemblyInfo.cs
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.csproj.CoreCompileInputs.cache
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.RazorAssemblyInfo.cache
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.RazorAssemblyInfo.cs
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/scopedcss/bundle/SevStudentsApp.styles.css
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/scopedcss/projectbundle/SevStudentsApp.bundle.scp.css
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.csproj.CopyComplete
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.dll
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/refint/SevStudentsApp.dll
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.pdb
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.genruntimeconfig.cache
+C:/Users/a8ana/source/repos2022com/SebAuebAug2022/SevStudentsApp/obj/Debug/net6.0/ref/SevStudentsApp.dll
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/appsettings.json
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/SevStudentsApp.staticwebassets.runtime.json
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/SevStudentsApp.exe
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/SevStudentsApp.deps.json
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/SevStudentsApp.runtimeconfig.json
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/SevStudentsApp.dll
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/SevStudentsApp.pdb
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Geopc/Desktop/SevStudentsApp1/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/SevStudentsApp.csproj.AssemblyReference.cache
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/SevStudentsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/SevStudentsApp.AssemblyInfoInputs.cache
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/SevStudentsApp.AssemblyInfo.cs
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/SevStudentsApp.csproj.CoreCompileInputs.cache
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/SevStudentsApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/SevStudentsApp.RazorAssemblyInfo.cache
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/SevStudentsApp.RazorAssemblyInfo.cs
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/scopedcss/bundle/SevStudentsApp.styles.css
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/scopedcss/projectbundle/SevStudentsApp.bundle.scp.css
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/SevStudentsApp.csproj.CopyComplete
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/SevStudentsApp.dll
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/refint/SevStudentsApp.dll
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/SevStudentsApp.pdb
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/SevStudentsApp.genruntimeconfig.cache
+C:/Users/Geopc/Desktop/SevStudentsApp1/obj/Debug/net6.0/ref/SevStudentsApp.dll
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/appsettings.json
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.staticwebassets.runtime.json
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.exe
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.deps.json
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.runtimeconfig.json
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.dll
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.pdb
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.csproj.AssemblyReference.cache
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.AssemblyInfoInputs.cache
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.AssemblyInfo.cs
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.csproj.CoreCompileInputs.cache
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.RazorAssemblyInfo.cache
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.RazorAssemblyInfo.cs
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/scopedcss/bundle/SevStudentsApp.styles.css
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/scopedcss/projectbundle/SevStudentsApp.bundle.scp.css
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.csproj.CopyComplete
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.dll
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/refint/SevStudentsApp.dll
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.pdb
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.genruntimeconfig.cache
+C:/Users/Geopc/Desktop/C# projects/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/ref/SevStudentsApp.dll
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/appsettings.json
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.staticwebassets.runtime.json
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.deps.json
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.runtimeconfig.json
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.dll
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.pdb
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.csproj.AssemblyReference.cache
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.AssemblyInfoInputs.cache
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.AssemblyInfo.cs
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.csproj.CoreCompileInputs.cache
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.RazorAssemblyInfo.cache
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.RazorAssemblyInfo.cs
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/scopedcss/bundle/SevStudentsApp.styles.css
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/scopedcss/projectbundle/SevStudentsApp.bundle.scp.css
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.csproj.CopyComplete
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.dll
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/refint/SevStudentsApp.dll
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.pdb
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.genruntimeconfig.cache
+/Users/chris/Downloads/SevAueb2022FinalProject/SevStudentsApp/obj/Debug/net6.0/ref/SevStudentsApp.dll
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/appsettings.json
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.staticwebassets.runtime.json
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.deps.json
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.runtimeconfig.json
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.dll
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/SevStudentsApp.pdb
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.csproj.AssemblyReference.cache
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.AssemblyInfoInputs.cache
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.AssemblyInfo.cs
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.csproj.CoreCompileInputs.cache
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.RazorAssemblyInfo.cache
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.RazorAssemblyInfo.cs
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/scopedcss/bundle/SevStudentsApp.styles.css
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/scopedcss/projectbundle/SevStudentsApp.bundle.scp.css
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.csproj.CopyComplete
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.dll
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/refint/SevStudentsApp.dll
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.pdb
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/SevStudentsApp.genruntimeconfig.cache
+/Users/chris/Downloads/SevAuebAppFinal/SevStudentsApp/obj/Debug/net6.0/ref/SevStudentsApp.dll
